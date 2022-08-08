@@ -12,7 +12,7 @@ _A continuación parte de las herramientas y tecnologías utilizadas._
 </br>
 [![Bootstrap Follow](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
 
-![Maquetado](https://github.com/iwill88/El-Vinilo-de-Vasiliy_Website/blob/master/Imagenes/El-Vinilo-de-Vasiliy_Website.jpg)
+![Maquetado](https://github.com/iwill88/Portfolio/blob/master/Imagenes/Portfolio-image.jpg)
 
 ## Muchas gracias por tomarte el tiempo en revisar mi trabajo! 🎁
 
