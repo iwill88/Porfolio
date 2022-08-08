@@ -1,4 +1,4 @@
-# El Vinilo de Vasiliy - Website
+# Mi Portfolio - Website
 
 _Sitio web de mi portfolio de programador con todos mis trabajos desarrollados. Este sitio web se ha elaborado con HTML, CSS, JS y Bootstrap._
 
@@ -12,7 +12,7 @@ _A continuación parte de las herramientas y tecnologías utilizadas._
 </br>
 [![Bootstrap Follow](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
 
-![Maquetado](https://github.com/iwill88/Portfolio/blob/master/Imagenes/Profile_picture.jpg)
+![Maquetado](https://github.com/iwill88/Portfolio/blob/master/Imagenes/Profile_picture-Github.jpg)
 
 ## Muchas gracias por tomarte el tiempo en revisar mi trabajo! 🎁
 
